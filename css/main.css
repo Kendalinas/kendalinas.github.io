@@ -4,11 +4,18 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 
-body {
-  font-family: 'Lato';
+ body {
+  font-family: 'Stalemate', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  background-color: #f4f6f7;
+  }
+
+h1 {
+  font-family: 'Stalemate';
+  font-weight: 700;
 }
 
-h1,
 h2,
 h3,
 h4,
@@ -301,8 +308,8 @@ header.masthead h2 {
   margin: 0;
   -webkit-transition: top 0.3s ease, opacity 0.3s ease;
   transition: top 0.3s ease, opacity 0.3s ease;
-  vertical-align: middle;
-  vertical-align: baseline;
+  ;
+
   opacity: 0;
 }
 
